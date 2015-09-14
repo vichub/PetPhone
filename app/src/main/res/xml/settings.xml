@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+<CheckBoxPreference
+    android:key="Vibrate"
+    android:defaultValue="false"
+    android:title="@string/vibTitle"
+    android:summary="@string/vibSummary" />
+<CheckBoxPreference
+    android:key="useDefaultImg"
+    android:defaultValue="true"
+    android:title="@string/useDefaultImg"
+    android:summary="@string/useDefaultImgSum" />
+</PreferenceScreen>

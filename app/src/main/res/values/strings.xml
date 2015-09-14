@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello, this is your Purrfect Phone!</string>
+    <string name="app_name">Purrfect Phone</string>
+    <string name="choosepet">Choose Pet</string>
+    <color name="MainText">#f00</color>
+    <string name="MsgStroke">--0--0--0--0--0--0--0--0--0--</string>
+    <string name="MsgTap"></string>
+    <string name="vibTitle">Vibrate</string>
+    <string name="vibSummary">Phone vibrates when petting kitty</string>
+    <string name="useDefaultImg">Default</string>
+    <string name="useDefaultImgSum">Use the default image</string>
+    <drawable name="Bkgrnd">#555</drawable>
+    <string name="about">About Purrfect Phone</string>
+    <color name="aboutText">#FdFdFd</color>
+    <string name="aboutPetPhone">"<b>Help for Purrfect Phone users</b>\n\n
+        Purrfect Phone version 1.6\n\nPet your kitty by rubbing the screen. But watch 
+        out for kitty\'s sensitive spot! If you touch it 
+        you will make kitty angry.\n\n
+        You can load a picture of your own kitty from your Android device\'s 
+        external storage (SD card) by selecting \'Choose Pet\' from the menu. 
+        This will display the contents of your Android device\'s external
+        storage. Navigate to the image you want to use and select it by 
+        tapping the screen. If you have a folder called \'petphone\' or \'PetPhone\', 
+        its contents will be displayed first (saves a little time).\n\nNote: 1. the image you select should be less than 200KB
+        in size.\n2. As long as the \'Use default image\' option is checked, 
+        the default image will be displayed - no matter what image you select with 
+        \'Choose pet\'.\n\nIf you have any suggestions on how to improve this application, 
+        email me at \nWill.GreatApps@gmail.com"
+        </string>
+    <color name="TRANSPARENT">#0000</color>
+    <string name="version">1.6</string>
+    <string name="Options">Options</string>
+    <string name="vibcheckBox">Vibrate</string>
+    <string name="comfirm">OK</string>
+    <string name="optiontext">To activate an option, check its box. To deactivate an option, uncheck its box. Press the \'Confirm selection\' button to save your choice.</string>
+</resources>
